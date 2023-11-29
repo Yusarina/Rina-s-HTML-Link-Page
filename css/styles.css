@@ -1,5 +1,8 @@
-body {
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
+body {
+  margin-top: 50px;
+  font-family: 'Poppins', sans-serif;
   background: linear-gradient(
     to bottom,
     #1a8cff,
@@ -22,8 +25,9 @@ body {
 }
 
 h1 {
-  text-align: center;
+  text-align: center; 
   color: white;
+  margin-top: 20px;
 }
 
 .circular-frame {
@@ -39,7 +43,7 @@ h1 {
 }
 
 .social-media-box {
-  width: 500px;
+  width: 800px;
   margin: 0 auto;
   border: 1px solid #ccc;
   padding: 20px;
@@ -64,75 +68,19 @@ h1 {
 }
 
 .btn {
-  background: #007bff;
-  color: #fff;
-  padding-top: 20px;
-  padding-bottom: 20px; 
-  padding-left: 140px;
-  padding-right: 140px;
-  font-size: 18px;
+  background: white; 
+  color: black;
+  padding-top: 10px;
+  padding-bottom: 10px; 
+  width: 600px;
+  font-size: 22px;
   border-radius: 20px;
   text-decoration: none;
+  transition: width 0.3s ease-out; 
 }
 
 .btn:hover {
-  background: #0056b3; 
-}
-
-h1 {
-  text-align: center;
-  color: white;
-}
-
-.circular-frame {
-  border-radius: 100%;
-  border: 4px solid red;
-  object-fit: cover;
-  object-position: top; 
-  width: 250px;
-  height: 250px;  
-  
-  display: block;
-  margin: 0 auto;
-}
-
-.social-media-box {
-  width: 500px;
-  margin: 0 auto;
-  border: 1px solid #ccc;
-  padding: 20px;
-  text-align: center;
-  color: white;
-  position: relative;
-  top: 20px;
-}
-
-.social-media-box .btn {
-  display: inline-block;
-  margin-right: 10px;
-}
-
-.social-media-box ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-.social-media-box li {
-  margin-bottom: 10px; 
-}
-
-.btn {
-  background: #007bff;
-  color: #fff;
-  padding-top: 20px;
-  padding-bottom: 20px; 
-  padding-left: 140px;
-  padding-right: 140px;
-  font-size: 18px;
-  border-radius: 20px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background: #0056b3; 
+  background: #f2f2f2;
+  transition: width 0.3s ease-out;
+  width: 650px; 
 }
