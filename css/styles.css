@@ -1,0 +1,138 @@
+body {
+
+  background: linear-gradient(
+    to bottom,
+    #1a8cff,
+    #0080ff, 
+    #0073e6,
+    #0066cc,  
+    #0059b3,
+    #004d99,
+    #004080,
+    #333399,
+    #3939ac,
+    #4040bf,
+    #5353c6,
+    #6666cc,
+    #7979d2, 
+    #8c8cd9
+  );
+
+  background-attachment: fixed;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.circular-frame {
+  border-radius: 100%;
+  border: 4px solid red;
+  object-fit: cover;
+  object-position: top; 
+  width: 250px;
+  height: 250px;  
+  
+  display: block;
+  margin: 0 auto;
+}
+
+.social-media-box {
+  width: 500px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  position: relative;
+  top: 20px;
+}
+
+.social-media-box .btn {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-media-box ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.social-media-box li {
+  margin-bottom: 10px; 
+}
+
+.btn {
+  background: #007bff;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px; 
+  padding-left: 140px;
+  padding-right: 140px;
+  font-size: 18px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0056b3; 
+}
+
+h1 {
+  text-align: center;
+  color: white;
+}
+
+.circular-frame {
+  border-radius: 100%;
+  border: 4px solid red;
+  object-fit: cover;
+  object-position: top; 
+  width: 250px;
+  height: 250px;  
+  
+  display: block;
+  margin: 0 auto;
+}
+
+.social-media-box {
+  width: 500px;
+  margin: 0 auto;
+  border: 1px solid #ccc;
+  padding: 20px;
+  text-align: center;
+  color: white;
+  position: relative;
+  top: 20px;
+}
+
+.social-media-box .btn {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.social-media-box ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.social-media-box li {
+  margin-bottom: 10px; 
+}
+
+.btn {
+  background: #007bff;
+  color: #fff;
+  padding-top: 20px;
+  padding-bottom: 20px; 
+  padding-left: 140px;
+  padding-right: 140px;
+  font-size: 18px;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #0056b3; 
+}
