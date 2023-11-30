@@ -1,9 +1,24 @@
 # Rina's HTML Link page
 
-#### This was mainly a personal project of mine which I thought I share with the world. This is simply a HTML template which you can use to link people to your own social media pages or websites. To do this you would need to self host your own website.
+#### This was mainly a personal project of mine which I thought I share with the world. This is simply a HTML template which you can use to link people to your own social media pages or websites.
+
+## Features: 
+
+- Nice looking background by using hex codes to create a gradient. You can change this yourself by changing the hex codes or even add more to make a smoother gradient.
+- Icons next to the buttons.
+- Profile image at the top.
+- Name and tagline.
+
+Tbh it's quite a simple webpage.
+
+## Requirments:
+
+- Some type of text editor.
+- Basic knowlege of HTML and CSS.
+- Somewhere to host it.
 
 To customize just open up the HTML page in your favorite text editor and customize your links. You can customize the background and colour in the style.css located in the CSS folder. 
 
-That's all to it really. If you don't know how to edit HTML or CSS, well google is your friend.
+I will not help anyone with this, please ensure you have basic HTML and CSS knowlege.
 
 Example website is my own here: 
