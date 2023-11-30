@@ -98,9 +98,8 @@ h1 {
 
 /* Button icon hover state */
 .btn:hover .btn-icon {
-  right: 60%; /* Adjust the right position on hover */
-  transform: translateX(60%) translateY(-50%);
-  margin-left: 0; /* Reset margin-left on hover */
+  Left: 415px; /* Adjust the right position on hover to prevent moving to the far left */
+}
 
 /* Individual icon styles */
 .btn-icon img:nth-child(1) {
