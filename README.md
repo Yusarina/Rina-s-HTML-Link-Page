@@ -2,6 +2,10 @@
 
 #### This was mainly a personal project of mine which I thought I share with the world. This is simply a HTML template which you can use to link people to your own social media pages or websites.
 
+- See my gumroad: https://yusarina.gumroad.com
+- See my github: https://github.com/Yusarina
+- See all my social media sites here: https://yusarina.xyz
+
 ## Features: 
 
 - Nice looking background by using hex codes to create a gradient. You can change this yourself by changing the hex codes or even add more to make a smoother gradient.
