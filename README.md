@@ -21,4 +21,4 @@ To customize just open up the HTML page in your favorite text editor and customi
 
 I will not help anyone with this, please ensure you have basic HTML and CSS knowlege.
 
-Example website is my own here: 
+Example website is my own here: https://yusarina.xyz
