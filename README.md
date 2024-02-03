@@ -6,7 +6,7 @@
 - See my github: https://github.com/Yusarina
 - See all my social media sites here: https://yusarina.xyz
 
-https://github.com/Yusarina/Rina-s-Blender-Tools/tree/blender-40-main
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R1SDNNP)
 
 ## Features: 
 
