@@ -6,6 +6,8 @@
 - See my github: https://github.com/Yusarina
 - See all my social media sites here: https://yusarina.xyz
 
+https://github.com/Yusarina/Rina-s-Blender-Tools/tree/blender-40-main
+
 ## Features: 
 
 - Nice looking background by using hex codes to create a gradient. You can change this yourself by changing the hex codes or even add more to make a smoother gradient.
